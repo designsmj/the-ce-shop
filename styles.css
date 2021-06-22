@@ -156,13 +156,14 @@ header {
     cursor: pointer;
 }
 .shop {
-    background: transparent;
-    border: 2px solid white;
-    padding: .7rem 2.25rem;
+  background: transparent;
+  border: 2px solid #4c4c4c;
+  padding: .7rem 2.25rem;
+  color: #4c4c4c;
 }
 .shop:hover {
-    background-color: white;
-    color: black;
+    background-color: #4c4c4c;
+    color: white;
 }
 
 /*products section*/
@@ -188,7 +189,7 @@ header {
 }
 .prod-cont-title p {
     font-size: 20px;
-    color: #A8A7BA;
+    color: #747485;
     width: 50%;
     margin: auto;
 }
@@ -685,7 +686,7 @@ footer hr {
 }
 .footer-icon:hover {
     transform: translateY(-10px);
-    fill: #a8a7ba;
+    fill: #747485;
     cursor: pointer;
 }
 .bottom {
